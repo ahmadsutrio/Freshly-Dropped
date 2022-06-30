@@ -42,7 +42,7 @@
         <h3>Apakah anda ingin menghapus produk dengan nama <?php echo $nama?></h3>
         <?php echo"
             <a href='konfirmasiHapus.php?id_produk=$id'>Ok</a>
-            <a class='cancel'href='bacamhs2.php'>Cancel</a>
+            <a class='cancel'href='daftarSemuaProduk.php'>Cancel</a>
         ";?>
     </div>
 
